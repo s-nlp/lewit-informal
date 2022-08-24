@@ -11,7 +11,7 @@ import re
 
 class LEWIP:
     
-    def __init__(self, predefined_entities = True, use_cuda = False, 
+    def __init__(self, predefined_entities = True, use_cuda = True, 
                  model_name = "SkolkovoInstitute/LEWIP-informal",
                 tagger_model_name='SkolkovoInstitute/LEWIP-informal-tagger'):
         
