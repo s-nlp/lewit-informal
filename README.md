@@ -49,3 +49,5 @@ model.generate(text, show_template = True)
 ```
 
 # Dataset
+
+The dataset used for evaluation of content preserving formality transfer. Learn more [here](dataset/README.md)
