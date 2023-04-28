@@ -1,8 +1,8 @@
-# LEWIP-informal
+# LEWIT-informal
 
-This repository presents LEWIP-informal model, designed to transfer formal text into informal keeping the important slots from the source text. The slots can be either pre-defined or detected automatically.
+This repository presents LEWIT-informal model, designed to transfer formal text into informal keeping the important slots from the source text. The slots can be either pre-defined or detected automatically.
 
-The model is based on LEWIP (Levenshtein editing with the parallel corpus). It exploits the ability of T5 model to fill the slots between the known texts with undefined number of tokens. 
+The model is based on LEWIT (T5-based LEWIS). It exploits the ability of T5 model to fill the slots between the known texts with undefined number of tokens. 
 
 ## How to use
 
